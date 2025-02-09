@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>That Hurts My Feelings</title>
+    <style>
+        body {
+            background-color: navy;
+            color: yellow;
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #333;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .header h1 {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>That Hurts My Feelings</h1>
+    </div>
+
+    <!-- Your content here -->
+
+</body>
+</html>
